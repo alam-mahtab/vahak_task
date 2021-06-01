@@ -30,7 +30,7 @@ Question 2 : Rotating Matrix:
     [9,6,3]
     ]
 
-Overview : Question looks simple but its appraoch is quite hard, because we can't pass input in list of list.
+Overview : Question looks simple but its appraoch is quite hard, because we can't pass input in the form of lists of list.
 Approach : We have to create a list of list so we take input as how many numbers of lists we want inside   
            a list, second how many elements want to be stored by each list and third input elements one by one seperated by enter   
 Solution : solution is in rotating_array_of_array.py file just run it using command python rotating_array_of_array.py
